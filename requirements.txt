@@ -1,0 +1,15 @@
+# Kernbibliotheken
+mesa
+pygame
+numpy
+matplotlib
+
+# Datenanalyse und erweiterte Plots (Iteration 6+)
+pandas
+seaborn
+scipy
+
+# Pfadfindung / Graphen (Iteration 7, optional)
+networkx
+# oder als Alternative für reine Pfadfindung:
+python-pathfinding
